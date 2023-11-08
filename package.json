@@ -1,0 +1,20 @@
+{
+  "name": "node_test_case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  }, 
+  
+  "author": "yogesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "mysql2": "^3.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
